@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: Hello-Sumit
+  name: Hello-k8s
 spec:
   type: LoadBalancer
   ports:
